@@ -1,5 +1,8 @@
 # Site vitrine HTML / CSS
 
+## Démo en ligne
+https://garanceguinet.github.io/site-vitrine-html-css/
+
 Projet réalisé dans le cadre de mon autoformation en développement web.
 
 ## Description
