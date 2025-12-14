@@ -5,8 +5,8 @@ Accéder au site :
 https://garanceguinet.github.io/site-vitrine-html-css/
 
 ## Contexte du projet 
-Ce projet a été réalisé dans un contexte d'autoformation intensive au développement web, en parallèle d'une activité professionnelle à temps plein.
-Il s'agit de mon premier site vitrine complet, développé après l'apprentissage des bases du HTML et du CSS, avec un accent particulier sur la structuration des pages et de la mise en forme du contenu.
+Ce projet a été réalisé dans un contexte d'autoformation intensive au développement web à partir des cours en libre accès de la plateforme OpenClassrooms, en parallèle d'une activité professionnelle à temps plein.
+Il s'agit d'un projet fil rouge visant à mettre en pratique les bases du HTML et CSS, avec un accent particulier sur la structuration des pages et de la mise en forme du contenu.
 
 ## Description
 Site vitrine statique composé de plusieurs pages (accueil, à propos, portfolio).
