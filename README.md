@@ -34,5 +34,3 @@ Site vitrine statique composé de plusieurs pages (accueil, à propos, portfolio
 ## Améliorations possibles
 - Ajouter des interactions avec JavaScript
 - Ajouter des animations CSS plus avancées
-
-Ce projet s'inscrit dans ma démarche de reconversion vers le développement web et dans ma recherche d'une alternance, avec une forte motivation à progresser rapidement et à m'investir pleinement en entreprise.
